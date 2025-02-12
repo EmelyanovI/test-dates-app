@@ -27,7 +27,6 @@ http://localhost:3000
 
 ### Используемые технологии
 - VS Code
-- Git Bash
 - Figma
 - React 18.2
 - TypeScript
